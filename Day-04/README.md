@@ -1,11 +1,9 @@
 # Day 04 – Array Problems
 
 ## ✅ Problems Solved
-1. Valid Anagram (Easy)
-2. Reverse String (Easy)
-3. Contains Duplicate (Easy)
-4. Remove Duplicates from Sorted Array (Easy)
-5. Move Zeroes (Easy)
+1. Contains Duplicate (Easy)
+2. Remove Duplicates from Sorted Array (Easy)
+3. Move Zeroes (Easy)
 
 ## 💡 Concepts Used
 - HashSet
@@ -17,6 +15,6 @@
 - Space Complexity: O(1) / O(n)
 
 ## 📌 Learnings
-- Hashing helps detect duplicates
-- Two pointers allow efficient in-place updates
-- Maintaining order is important in array problems
+- Hashing helps detect duplicates efficiently
+- Two pointers allow in-place updates
+- Maintaining array order is important
